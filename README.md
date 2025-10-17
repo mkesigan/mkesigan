@@ -32,3 +32,4 @@ I’m pursuing a **BSc in IT specializing in Data Science at SLIIT**, graduating
 
 🌐 Let’s Connect:
 📧 Email: **[kesigan2308@gmail.com](mailto:kesigan2308@gmail.com)**
+🌐 [LinkedIn Profile](https://github.com/mkesigan)
