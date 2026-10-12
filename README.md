@@ -1,35 +1,140 @@
-💫 About Me 👇
-👋 Hey there! I'm **Kesigan Mukuntharathan** 🤖
-🎓 3rd Year IT Undergraduate | Data Science Major | Machine Learning Enthusiast
+# Hi there, I'm Kesigan Mukuntharathan 👋
 
-I’m pursuing a **BSc in IT specializing in Data Science at SLIIT**, graduating in **2027**. I’m passionate about exploring real-world data, uncovering insights, and building **AI/ML-powered solutions** that solve meaningful problems. 📊🧠
+### AI/ML Engineer Aspirant | Data Science Undergraduate | Generative AI & MLOps Enthusiast
 
-🛠️ Tech Stack & Skills
-💻 Languages: C, C++, Java, Python, R, PHP, JavaScript, Kotlin, HTML, CSS
-📊 Data Science Tools: NumPy, Pandas, Matplotlib, Scikit-learn, (Learning TensorFlow & ML algorithms)
-🌐 Web Development: React.js, Tailwind CSS, Express.js, Java Servlets
-📱 Mobile Development: Kotlin (Android Development)
-🗄️ Databases: MongoDB, MySQL
-🧰 Tools: Git, GitHub, Cloud & DevOps essentials
-🪟 OS: Windows, Linux
+I'm a **BSc (Hons) Information Technology undergraduate specializing in Data Science** at the **Sri Lanka Institute of Information Technology (SLIIT)**, with a **CGPA of 3.61/4.00** and an expected graduation in **2027**.
 
-🌱 Currently Learning
-📌 Machine Learning Algorithms
-📌 Data Science & Visualization
-📌 Cloud Computing & AI Applications
-📌 Advanced Mathematics for Data Science
+I'm passionate about building intelligent, practical AI solutions, from training machine learning and deep learning models to developing **LLM-powered applications, Agentic AI systems, Retrieval-Augmented Generation (RAG) pipelines, and MLOps workflows**.
 
-💡 Projects
+My goal is to become an **AI/ML Engineer**, focusing on scalable, reliable, and production-ready AI systems.
 
-* **Bidify** – Online Bidding System (Java, Servlets, JSP, MVC)
-* **Hotel Management System** – MERN stack with AI chatbot & real-time booking
-* **Coffee Monster** – Mobile App (Kotlin)
-* **Personal Finance Tracker** – Kotlin app with backup/restore & notifications
-* **Web Scraping Project** – Extracting and analyzing real-world data
-* **Breast Cancer Prediction** – Machine Learning model for health analytics
+---
 
-💬 I’m driven by a vision to combine **Data Science + AI** to create impactful, data-driven solutions. 🚀
+## 🚀 What I'm Working On
 
-🌐 Let’s Connect:
-📧 Email: **[kesigan2308@gmail.com](mailto:kesigan2308@gmail.com)**
-🌐 Linkedin: **[Kesigan Mukuntharathan](https://www.linkedin.com/in/kesigan-mukuntharathan-a06447271)**
+- 🤖 Building intelligent AI agents and multi-agent workflows
+- 🧠 Developing LLM applications using RAG, LangGraph, and vector databases
+- 📊 Training, evaluating, and deploying machine learning models
+- ⚙️ Exploring MLOps, automated retraining, model evaluation, and deployment governance
+- 🔬 Researching confidence-based decision-making for autonomous ML systems
+- 🌱 Strengthening my foundations in Deep Learning, NLP, Generative AI, and Cloud technologies
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+
+Python • SQL • R • Java • C++ • JavaScript
+
+**Machine Learning & Deep Learning**
+
+Scikit-learn • XGBoost • PyTorch • TensorFlow • Hugging Face Transformers • Pandas • NumPy
+
+**Generative AI & Agentic Systems**
+
+LLMs • LangChain • LangGraph • RAG • Agentic AI • Prompt Engineering • Vector Embeddings • Qdrant
+
+**Backend & Application Development**
+
+FastAPI • REST APIs • React.js • Next.js • Node.js • Express.js • Streamlit
+
+**Databases & Data Engineering**
+
+PostgreSQL • MongoDB • MySQL • Qdrant • PySpark • Web Scraping • ETL Fundamentals
+
+**Data Analytics & Visualization**
+
+Power BI • Excel • Matplotlib • Seaborn • Data Preprocessing • Feature Engineering • Statistical Analysis
+
+**Development & MLOps Tools**
+
+Git • GitHub • Docker • Linux • VS Code • Jupyter Notebook • Google Colab
+
+**Cloud Exposure**
+
+AWS Fundamentals • Google Cloud Fundamentals • Microsoft Azure Fundamentals
+
+---
+
+## 💻 Featured Projects
+
+### 🤖 PulseAI — Autonomous Market Intelligence Platform
+
+**Tech Stack:** Python, FastAPI, LangGraph, Qdrant, Llama 3, Next.js, Docker
+
+An AI-powered market intelligence platform that uses multi-agent workflows and Agentic RAG to analyze financial news and generate contextual insights.
+
+- Developed autonomous workflows for news monitoring and sentiment analysis
+- Implemented vector-based retrieval using Qdrant
+- Integrated LLM inference through Groq and Llama 3
+- Built a FastAPI backend and Next.js dashboard
+- Containerized application services using Docker Compose
+
+### 🧠 Sentiment Analysis Using DistilBERT
+
+**Tech Stack:** Python, PyTorch, Hugging Face Transformers, FastAPI, React
+
+An NLP application for classifying text sentiment using a fine-tuned DistilBERT model.
+
+- Fine-tuned DistilBERT using the Sentiment140 dataset
+- Implemented text preprocessing and tokenization
+- Evaluated classification performance
+- Built a REST API for model inference
+- Integrated a React frontend for predictions
+
+### 📊 Air Quality Index (AQI) Prediction System
+
+**Tech Stack:** Python, Scikit-learn, Logistic Regression, Streamlit
+
+A machine learning application for predicting air quality categories using environmental and geospatial data.
+
+- Performed data cleaning and feature engineering
+- Compared Logistic Regression, Random Forest, and Gradient Boosting
+- Achieved approximately **94% classification accuracy**
+- Developed an interactive Streamlit application
+- Implemented geolocation visualization and PDF reporting
+
+### 🔐 Password Safety AI — Multi-Agent Security System
+
+**Tech Stack:** Python, FastAPI, Next.js, MongoDB, AI Agents
+
+A collaborative AI-powered security application designed to improve password generation and safety.
+
+- Designed Generator, Watchdog, and Vault agent workflows
+- Developed multilingual password and passphrase generation
+- Integrated Have I Been Pwned for breach detection
+- Built backend APIs and an interactive web interface
+
+
+## 🎓 Education
+
+**Sri Lanka Institute of Information Technology (SLIIT)**
+
+BSc (Hons) in Information Technology — Data Science Specialization
+
+- CGPA: **3.61 / 4.00**
+- Expected Graduation: **2027**
+
+## 📜 Certifications & Learning
+
+- IBM Machine Learning with Python — Coursera
+- IBM Python Project for Data Science — Coursera
+- IBM Data Visualization with Excel and Cognos — Coursera
+- IBM AI Engineering Professional Certificate — In Progress
+
+---
+
+## 🎯 Career Interests
+
+AI Engineering • Machine Learning Engineering • Generative AI • LLM Applications • Agentic AI • NLP • MLOps • Data Science
+
+I'm interested in opportunities where I can contribute to real-world AI/ML development, collaborate with experienced engineers, and continuously improve my technical expertise.
+
+## 🤝 Connect With Me
+
+- 📧 **Email:** [Kesigan2308@gmail.com](mailto:Kesigan2308@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/kesigan-mukuntharathan](https://www.linkedin.com/in/kesigan-mukuntharathan)
+- 💻 **GitHub:** [github.com/mkesigan](https://github.com/mkesigan)
+
+---
+
+*Building intelligent systems, learning continuously, and turning ideas into practical AI solutions.* 🚀
